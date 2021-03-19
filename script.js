@@ -1,5 +1,7 @@
 setInterval(setClock, 1000);
 
+// I made this change again
+
 const secHand = document.querySelector('.clock .second');
 const minHand = document.querySelector('.clock .minute');
 const houHand = document.querySelector('.clock .hour');
